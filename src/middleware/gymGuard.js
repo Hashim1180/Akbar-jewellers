@@ -1,0 +1,1 @@
+const gymGuard = (req, res, next) => { const vipPass = req.headers['x-vip-pass']; if (!vipPass || vipPass !== 'AKBAR_VAULT_KEY') { return res.status(403).json({ status: 'REJECTED', message: 'Access Denied. The Security Guard blocks your path. Provide valid VIP Pass.' }); } next(); }; module.exports = gymGuard;

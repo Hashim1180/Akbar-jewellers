@@ -1,0 +1,1 @@
+# AKBAR JEWELLERS BACKEND ARCHITECTURE v24.0 | A WeboraX Synthesis | This is a highly secure luxury-tier backend API. It features a WhatsApp Negotiation Engine for dynamic high-ticket closing, a strict Gym Guard Middleware mimicking a vault bouncer, and an Armored Delivery State Machine using WebSockets. Include headers { x-vip-pass: AKBAR_VAULT_KEY } to bypass the Gym Guard.
